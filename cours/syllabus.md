@@ -1,5 +1,7 @@
 
-yllabus / Plan de cours
+Syllabus / Plan de cours
+========================
+
 
 Description               | valeur
 --------------------------|----------------------
